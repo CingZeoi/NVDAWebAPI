@@ -175,7 +175,8 @@ Instantly stops any speech currently being output by NVDA.
 
 **Payload**: None
 
-**Success Response (`status: 0, result.code: 0`)**```json
+**Success Response (`status: 0, result.code: 0`)**
+```json
 {
     "status": 0,
     "message": "Success",
@@ -238,7 +239,7 @@ Add the following `<script>` tag to your HTML. The library automatically discove
 
 ```html
 <!-- Make sure the port matches the one your server is running on -->
-<script src="http://localhost:12320/lib/nvda_api.js" defer></script>```
+<script src="http://localhost:12320/lib/nvda_api.js" defer></script>
 ```
 
 ### 2. Calling the API
