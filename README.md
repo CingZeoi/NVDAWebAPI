@@ -20,7 +20,7 @@ This project acts as a bridge between your applications and NVDA's accessibility
 *   **NVDA**: Must be installed and running for the API to work.
 *   **.NET Framework**: .NET Framework 4.8 is required.
 
-## Quick Start
+### Quick Start
 
 To fire up the API server, just run the executable from Command Prompt (CMD) or PowerShell.
 
