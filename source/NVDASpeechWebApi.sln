@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NVDASpeechWebApi", "NVDASpeechWebApi.csproj", "{7CE8A0EB-A4B2-48FD-859C-9C475170DFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE8A0EB-A4B2-48FD-859C-9C475170DFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE8A0EB-A4B2-48FD-859C-9C475170DFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE8A0EB-A4B2-48FD-859C-9C475170DFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE8A0EB-A4B2-48FD-859C-9C475170DFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C6A241-E41B-4267-B4D8-86C641D2D5E4}
+	EndGlobalSection
+EndGlobal
