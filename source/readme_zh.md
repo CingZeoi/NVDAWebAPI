@@ -62,6 +62,7 @@ API 服务将在 `http://localhost:58080` 上可用。
   "message": "Success",
   "result": { ... }
 }```
+```
 
 -   **`status`** `(整数)`: 表示 API 请求本身的执行状态。
     -   `0`: 表示服务器成功处理了该 HTTP 请求。
