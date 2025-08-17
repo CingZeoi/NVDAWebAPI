@@ -239,6 +239,7 @@ Add the following `<script>` tag to your HTML. The library automatically discove
 ```html
 <!-- Make sure the port matches the one your server is running on -->
 <script src="http://localhost:12320/lib/nvda_api.js" defer></script>```
+```
 
 ### 2. Calling the API
 
